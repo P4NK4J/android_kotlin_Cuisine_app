@@ -62,7 +62,7 @@ To directly download the apk [Click Here](https://github.com/P4NK4J/android_kotl
 <br/>
 <br/>
 <div style="display:flex;">
-<img alt="App image" src="Screenshots/img7.png" width="30%" hspace="10"
+<img alt="App image" src="Screenshots/img7.png" width="30%" hspace="10">
 <img alt="App image" src="Screenshots/img8.png" width="30%" hspace="10">
 <img alt="App image" src="Screenshots/img9.png" width="30%" hspace="10">
 </div>
