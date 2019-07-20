@@ -1,4 +1,4 @@
-# <img alt="App image" src="Screenshots/.jpg" width="5%"> Cuisine
+# <img alt="App image" src="Screenshots/logo.png" width="5%"> Cuisine
 
 [![License](https://img.shields.io/github/license/ashish7zeph/android-kotlin-Chore-app.svg?style=for-the-badge)](https://github.com/P4NK4J/android_kotlin_Cuisine_app/blob/master/LICENSE)
 [![Language max %](https://img.shields.io/github/languages/top/ashish7zeph/android-kotlin-Chore-app.svg?colorB=orange&style=for-the-badge)](https://kotlinlang.org/)
